@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "Ahmed",
+      "track": "OS",
+      "absent": false,
+      "address": null
+    },
+    {
+      "name": "Alaska",
+      "track": "Python",
+      "absent": true,
+      "address": null
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "name": "Ahmed",
+      "track": "OS",
+      "absent": false,
+      "address": null,
+      "areacode": ["100"]
+
+    },
+    {
+      "name": "Alaska",
+      "track": "Python",
+      "absent": true,
+      "address": null,
+      "areacode": ["100"]
+    }
+
+  ]
+}
